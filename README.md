@@ -57,6 +57,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [UNCTADStat](https://unctadstat.unctad.org/) — UNCTAD statistical hub with country profiles. Metrics: merchandise trade, FDI flows, maritime transport connectivity (LSCI), commodity dependence, e-commerce readiness, development indicators. Distinct from World Bank/IMF in development-trade focus.
 - [EBRD Transition Report](https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/) — Annual structural reform and macro data for 38 transition economies (Eastern Europe, Central Asia, MENA). Metrics: reform progress scores, green economy transition, Knowledge Economy Index (38 indicators across 4 innovation pillars).
 - [IDB Open Data Portal](https://data.iadb.org/) — Inter-American Development Bank data for 26 Latin American and Caribbean countries (1,700+ indicators, series from 1940). Metrics: macro (Latin Macro Watch), social indicators, agricultural policy (Agrimonitor), trade integration (INTrade).
+- [Invokely](https://invokely.ai/docs) — Hosted MCP for source-cited official statistics from national agencies, with country and subnational series. Free MCP account: 500 calls/month; REST data queries require Builder, Pro or prepaid credits. Metrics: GDP, inflation, employment, population.
 
 ## Human Development & Quality of Life
 
